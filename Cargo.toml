@@ -1,0 +1,9 @@
+[package]
+name = "avl-tree-rs"
+version = "0.1.0"
+edition = "2021"
+description = "AVL self-balancing BST with LL/RR/LR/RL rotations, balance factor tracking, insert/delete/contains, and inorder traversal"
+license = "MIT"
+repository = "https://github.com/SuperInstance/avl-tree-rs"
+keywords = ["avl", "tree", "data-structure", "balanced", "bst"]
+categories = ["data-structures"]
